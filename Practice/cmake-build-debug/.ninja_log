@@ -1,0 +1,9 @@
+# ninja log v5
+24	40	1661865798046115615	Practice	89a109c002a6af1d
+0	34	1661862310132158215	CMakeFiles/Practice.dir/test.c.o	5c2c597ecd84d168
+0	23	1661865798026115464	CMakeFiles/Practice.dir/main.c.o	94c22dace98cd4bf
+0	20	1666600594523042120	CMakeFiles/Practice.dir/main.c.o	94c22dace98cd4bf
+1	24	1666600594527042242	CMakeFiles/Practice.dir/test.c.o	5c2c597ecd84d168
+24	40	1666600594543042727	Practice	89a109c002a6af1d
+0	28	1666600603747322267	CMakeFiles/Practice.dir/main.c.o	94c22dace98cd4bf
+28	45	1666600603767322874	Practice	89a109c002a6af1d

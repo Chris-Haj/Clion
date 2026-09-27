@@ -1,0 +1,3 @@
+/home/chris/CLionProjects/EmbeddedSystems/cmake-build-debug/CMakeFiles/EmbeddedSystems.dir
+/home/chris/CLionProjects/EmbeddedSystems/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chris/CLionProjects/EmbeddedSystems/cmake-build-debug/CMakeFiles/rebuild_cache.dir

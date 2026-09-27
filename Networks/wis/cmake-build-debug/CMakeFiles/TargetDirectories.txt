@@ -1,0 +1,3 @@
+/home/chris/CLionProjects/Networks/wis/cmake-build-debug/CMakeFiles/wis.dir
+/home/chris/CLionProjects/Networks/wis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chris/CLionProjects/Networks/wis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
